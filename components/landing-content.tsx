@@ -21,6 +21,12 @@ const testimonials = [
         title: "Software Developer",
         description: "Very effective tool for  programmers!"
     },
+    {
+      name: "Peter",
+      avatar: "P",
+      title: "Software Developer",
+      description: "Very amazing tool for  everyone!"
+  },
   
 ]
 
